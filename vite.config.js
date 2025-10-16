@@ -4,5 +4,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  base: 'AI-Project'
+  base: 'my-project'
 })
